@@ -6,7 +6,7 @@
 //
 // NOTE: This code uses the token you provided. If you rotate it, update the TELEGRAM_TOKEN constant.
 
-const TELEGRAM_TOKEN = "8403487518:AAG_oCR_YunYZ8YL44DzbPmnYTC9FZxNObc";
+const TELEGRAM_TOKEN = "apna bot token daalo";
 const TELEGRAM_API = `https://api.telegram.org/bot${TELEGRAM_TOKEN}`;
 const REQUIRED_CHANNELS = ["@anshapi", "@revangeapi"];
 const EXTERNAL_INSTAGRAM_API = "https://socialdownloder.anshapi.workers.dev/api/instagram?url=";
